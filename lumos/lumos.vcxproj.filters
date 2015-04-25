@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="klui_tester.cpp">
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="lumos.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
